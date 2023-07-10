@@ -1,0 +1,264 @@
+
+
+body{
+    margin: auto;
+    width: auto;
+    overflow-x: hidden;
+    align-items: flex-end;
+    box-sizing: border-box;
+}
+.logo{
+    background-color: red;
+    width: auto;
+    height: 70px;
+}
+.img1{
+    background-image: url(im1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1%;
+    height: 500px;
+    
+}
+.img2{
+    width: auto;
+    background-color: rgb(68, 3, 68);
+    height: 500px;
+    padding: 10px;
+    padding-left: 50px;
+}
+.div2{
+    background-image: url(im5.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1%;
+    height:170px;
+    color: white;
+    font-family: sans-serif;
+    position: relative;
+}
+.div3{
+    background-image: url(im6.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1%;
+    height:300px;
+}
+.div4{
+    background-color: red;
+    width: auto;
+    height: 90px;
+    color: white;
+}
+.senai{
+    display: flex;
+    height: 50px;
+    padding-left: 80px;
+    padding-top: 10px;
+}
+.texto1{
+    color: white;
+    padding-top: 210px;
+    font-family: sans-serif;
+    padding-left: 60px;
+    font-size: larger;
+}
+.linha{
+    border-color: orange;
+    width: 500px;
+    display: inline-flex;
+    
+}
+.texto2{
+    color: darkred;
+    padding-left: 70px;
+}
+.texto3{
+   color: red;
+}
+.mouse{
+    padding-left: 30px;
+}
+.img3{
+    background-image: url(im3.jpeg);
+    background-repeat: no-repeat;
+    height:350px;
+    position: relative;
+    z-index: 1;
+    bottom: 170px;
+}
+.participantes{
+ text-align:right;
+ padding-right: 454px;
+ color: white;
+}
+.participantes2{
+    text-align:right;
+    color: yellow;
+}
+
+.participantes3{
+    text-align:right;
+color: white;
+}
+.participantes4{
+    height: 100px;
+    width: 400px;
+    padding-left: 600px;
+    color: white;
+}
+.lista1{
+    border: 1px solid white;
+    width: 250px;
+    height: 60px;
+     position: relative;
+    z-index: 1;
+    left: 37px;
+    top: 50px;
+}
+.lista2{
+    border: 1px solid white;
+    width: 250px;
+    height: 60px;
+    position: relative;
+    z-index: 1;
+    left: 500px;
+    bottom: 10px;
+}
+.lista3{
+    border: 1px solid white;
+    width: 250px;
+    height: 60px;
+    position: relative;
+    z-index: 1;
+    left: 950px;
+    bottom: 70px;
+}
+header{
+    position: fixed;
+    z-index: 2;
+    width: 1300px;
+}
+.texto4{
+    color: yellow;
+    z-index: 1;
+    left: 330px;
+    position: relative;
+   top: 70px;
+}
+.div5{
+    height: 160px;
+    width: 550px;
+    border: 1px solid white;
+    z-index: 2;
+    left: 330px;
+    position: relative;
+   background-color: rgb(43, 2, 43);
+   bottom: 130px;
+}
+.maps{
+    z-index: 3;
+    left: 360px;
+    position: relative;
+   height: 150px;
+   width: 200px;
+   top: 1px;
+}
+.texto6{
+    color: white;
+    font: 1px;
+    position: relative;
+   height: 150px;
+   width: 200px;
+   top: 40px;
+   left: 50px;
+}
+b{
+    position: relative;
+    top: 20px;
+}
+.list1{
+    position: relative;
+    color: white;
+    left: 36px;
+    top: 88px;
+}
+.list2{
+    position: relative;
+    color: white;
+    left: 500px;
+    top: 70px;
+}
+.list3{
+    position: relative;
+    color: white;
+    left: 950px;
+    top: 52px;
+}
+.b1{
+    position: relative;
+    color: white;
+    left: 80px;
+}
+.b2{
+    position: relative;
+    color: white;
+    left: 100px;
+}
+.b3{
+    position: relative;
+    color: white;
+    left: 70px;
+}
+a:hover:not(.botao){
+    font-size: 20px;
+    transition: 0.1s;
+    text-shadow: 4px 4px 6px;
+    }
+.l1{
+position: relative;
+z-index: 2;
+bottom: 47px;
+left: 580px;
+text-decoration: none;
+color: white;
+}
+ul{
+    list-style: none;
+}
+.l2{
+    position: relative;
+    z-index: 2;
+    bottom: 63px;
+    left: 720px;
+    text-decoration: none;
+    color: white;
+    }
+    .l3{
+        position: relative;
+        z-index: 2;
+        bottom: 80px;
+        left: 847px;
+        text-decoration: none;
+        color: white;
+        
+        }
+        .l4{
+            position: relative;
+            z-index: 2;
+            bottom:96px;
+            left: 1000px;
+            text-decoration: none;
+            color: white;
+            background-color: blue;
+            padding: 10px 30px;
+            }
+            .copy{
+           position: relative;
+          left: 450px;
+          top: 37px;
+        }
+        .t1{
+            font-family: 'Courier New', Courier, monospace;
+        }
+        

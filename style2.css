@@ -1,0 +1,56 @@
+/* Estilos para telas de celular */
+@media only screen and (max-width: 768px) {
+    /* Ajuste para o texto */
+    .texto1 {
+      text-align: center;
+    }
+    
+    .texto2 {
+      font-size: 24px;
+    }
+    
+    .participantes2 {
+      font-size: 18px;
+    }
+    
+    .participantes3 {
+      font-size: 14px;
+    }
+    
+    .b1, .b2, .b3 {
+      font-size: 16px;
+    }
+    
+    .texto4 {
+      font-size: 18px;
+    }
+    
+    .texto5 {
+      font-size: 14px;
+    }
+    
+    /* Ajuste para as imagens */
+    .senai {
+      max-width: 150px;
+      height: auto;
+    }
+    
+    .mouse {
+      max-width: 80px;
+      height: auto;
+    }
+    
+    .img3 {
+      background-image: url('caminho/para/imagem-celular.jpg');
+      background-size: cover;
+      width: 100%;
+      height: 200px;
+    }
+    
+    /* Ajuste para a localização */
+    .maps {
+      width: 100%;
+      height: 200px;
+    }
+  }
+  
